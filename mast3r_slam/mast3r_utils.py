@@ -380,7 +380,7 @@ def estimate_focal_knowing_depth(
     return focal
 
 
-def frame_to_intir(frame: "Frame") -> tuple[tuple[float, float], tuple[float, float]]:
+def frame_to_intir(frame) -> tuple[tuple[float, float], tuple[float, float]]:
     H = frame.img_shape.squeeze()[0].item()
     W = frame.img_shape.squeeze()[1].item()
 
