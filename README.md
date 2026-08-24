@@ -1,6 +1,6 @@
 # Mast3r Slam with Rerun
 
-## MOVE TO THIS REPO -> https://github.com/rerun-io/examples-monorepo/tree/main/packages/mast3r-slam
+## MOVED TO THIS REPO -> https://github.com/rerun-io/examples-monorepo/tree/main/packages/mast3r-slam
 
 An unofficial implementation of MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 
