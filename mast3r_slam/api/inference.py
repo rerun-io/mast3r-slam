@@ -112,7 +112,7 @@ def mast3r_slam_inference(inf_config: InferenceConfig):
     start_time = timer()
 
     while True:
-        rr.set_time_sequence(timeline="frame", sequence=i)
+        rr.set_time("frame", sequence=i)
         mode: Mode = states.get_mode()
 
         if i == len(dataset):
