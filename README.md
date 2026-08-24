@@ -1,4 +1,7 @@
 # Mast3r Slam with Rerun
+
+## MOVE TO THIS REPO -> https://github.com/rerun-io/examples-monorepo/tree/main/packages/mast3r-slam
+
 An unofficial implementation of MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 
 Uses [Rerun](https://rerun.io/) to visualize, [Gradio](https://www.gradio.app) for an interactive UI, and [Pixi](https://pixi.sh/latest/) for a easy installation
